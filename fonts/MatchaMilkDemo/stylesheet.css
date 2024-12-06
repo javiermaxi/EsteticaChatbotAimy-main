@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'MatchaMilkDemo';
-    src: url('MatchaMilkDemoRegular.woff2') format('woff2'),
-        url('MatchaMilkDemoRegular.woff') format('woff');
+    src: url('https://raw.githubusercontent.com/javiermaxi/EsteticaChatbotAimy-main/master/fonts/MatchaMilkDemo/MatchaMilkDemoRegular.woff2') format('woff2'),
+         url('https://raw.githubusercontent.com/javiermaxi/EsteticaChatbotAimy-main/master/fonts/MatchaMilkDemo/MatchaMilkDemoRegular.woff') format('woff');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
